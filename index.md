@@ -4,6 +4,23 @@
 
 - [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2512062013)
 
+## Features
+- Full board display, with recreated tokens. Each player is given a hidden area to plan the auction phase.
+
+![Board Preview](/GiantsOverview.jpg)
+
+- Roll button with automatic auction building
+
+![Rolling](/GiantsRoll.gif)
+
+- Included rulebook
+
+### TODO
+
+- Include player turns. Helpful to know whos turn it is and who is still in the round.
+
+- Automate board clearing. On turn end pieces go back to original player for next round, an automated process will decrease wasted time moving pieces and less likely to miss a token.
+
 ## Board Game Stats
 - Players : 3-5
 - Play Time: ~90 mins
